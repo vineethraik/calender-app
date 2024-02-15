@@ -93,6 +93,7 @@ export const addEventToCalender = async ({
     title: "hi",
     accessLevel: Calendar.EventAccessLevel.OWNER,
     attendees: [1, 2, 4],
+
     // attendees:[1,2,4]
     // status: Calendar.EventStatus.,
   },
